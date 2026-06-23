@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a graduate student in investigative journalism at Columbia University. You can read my work on [my website](http://julielee.net/). I write a newsletter called [Extremely Online](https://extremely-online.ghost.io/). 
+I am a **Dow Jones News Fund data intern** at the Howard Center for Investigative Journalism at the Philip Merrill College of Journalism at the University of Maryland. I graduated in May with a master's in investigative journalism at Columbia University. You can read my work on [my website](http://julielee.net/). I write a newsletter called [Extremely Online](https://extremely-online.ghost.io/). 
 
 For two years, I was the Technology for Liberty Fellow at the ACLU of Massachusetts, where I worked on issues like surveillance technologies, policing and algorithmic harms. I oversaw the [Data for Justice project](data.aclum.org/), publishing data-driven accountability stories and crafting interactive visualizations.
 
